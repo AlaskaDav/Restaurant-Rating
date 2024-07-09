@@ -89,7 +89,7 @@ Based on the analysis, I recommend the following actions:
  
 #### Limitations
 
-There was difficulty in representing the insight from the data in periods, so, I had to create a Date table independently from the data and then built a relationship in the model table so as to present the report in a well organized periodic manner i.e Month reporting and Dayl)
+There was difficulty in representing the insight from the data in periods, so, I had to create a Dax column independently from the data and then built a relationship in the model table so as to present the report in a well organized periodic manner i.e Month reporting and Dayl)
 
 
 🇲🇽  🥘
